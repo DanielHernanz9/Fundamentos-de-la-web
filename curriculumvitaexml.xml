@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!--UTF-8 significa Unicode Transformation Format - 8 bits. y al poner standalone a no, decimos que el documento no depende de condiciones externas (o otros documentos)-->
+<curriculum_vitae>
+    <personal_information> <!-- Informacion personal-->
+        <name>Daniel</name>
+        <address>C/Gran Vía 24</address>
+        <personal_phone>+34 648409783</personal_phone>
+        <email>Daniel@gmail.com</email>
+        <date_of_birth>5-04-2005</date_of_birth>
+        <nationality>Spanish</nationality>
+   </personal_information>
+
+   <work_experience> <!--Experiencia laboral-->
+        <job>
+            <company>ABC</company>
+            <position>Software Developer</position>
+            <startDate>13-04-2019</startDate>
+            <endDate>13-04-2022</endDate>
+            <description>Developing webs and mobile applications on Pascal</description>
+        </job>
+        <job>
+            <company>Siemens</company>
+            <position>Systems Analyst</position>
+            <startDate>13-04-2019</startDate>
+            <endDate>13-04-2022</endDate>
+            <description>Developing webs and mobile applications on Pascal</description>
+        </job>
+   </work_experience> 
+
+   <education> 
+        <degree>
+            <institution>Mostoles University</institution>
+            <title>Computer Science</title>
+            <startDate>10-09-2012</startDate>
+            <endDate>13-05-2019</endDate>
+        </degree>
+        <degree>
+            <institution>URJC University</institution>
+            <title>Master in Software Development</title>
+            <startDate>10-12-2020</startDate>
+            <endDate>10-09-2024</endDate>
+        </degree>
+   </education>
+   
+   <skills> <!-- Habilidades-->
+        <skill>JavaScript</skills>
+        <skill>Web Developer</skills>
+        <skill>Pascal</skills>
+   </skills>
+   
+   <lenguages> <!--Idiomas-->
+        <language>
+            <name>English</name>
+            <level>Native</level>
+        </language>
+        <language>
+            <name>German</name>
+            <level>B2</level>
+        </language>
+        <language>
+            <name>French</name>
+            <level>B1</level>
+        </language>     
+   </lenguages>
+</curriculum_vitae>

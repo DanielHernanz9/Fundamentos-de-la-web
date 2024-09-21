@@ -1,0 +1,21 @@
+{
+
+"curriculum_vitae":{
+    "personal_information": {
+        "name":"Oscar",
+        "adress":"Tulipan",
+        "phone":"666666",
+        "email":"oscar.soto@urjc.es",
+        "date_o_birth":"15/10/1992"
+    },
+
+"work_experience":[ //work experience es un objeto, lo de dentro son sus atributos, (personal information tambien es un objeto...)
+{
+    "company":"Google",
+    "position":"Software Engineer",
+    "date":"2020-2021",
+}
+]
+}
+
+}

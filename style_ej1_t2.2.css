@@ -1,0 +1,34 @@
+
+div {
+    height: 50px;
+    width: 120px;
+    border: 5px solid #002c7e;
+    background-color: #3982e0;
+    border-radius: 15px;
+    margin: auto;
+    text-align: center;
+   }
+   a {
+    text-decoration: none;
+    color: #3D59AB;
+   }
+   span {
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    position:relative;
+    top:28px;
+    left:23px;
+    font-family:sans-serif
+
+
+
+   }
+   p{
+    position:relative;
+    margin-right:83px;
+    bottom:35px 
+}
+ 
+
+  

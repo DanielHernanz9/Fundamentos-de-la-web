@@ -1,0 +1,41 @@
+{
+
+"curriculum_vitae":{
+    "personal_information": {
+        "name":"Daniel",
+        "adress":"C/Gran Vía 24",
+        "phone":"666666",
+        "email":"Daniel@gmail.com",
+        "date_o_birth":"5-04-2005"
+    },
+
+"work_experience":[ //work experience es un objeto, lo de dentro son sus atributos, (personal information tambien es un objeto...)
+{
+    "company":"Google",
+    "position":"Software Engineer",
+    "startDate":"2020-2021",
+    "endDate":"2022",
+    "description":"Developing webs and mobile applications on Pascal"
+
+}
+],
+"Education":[
+{
+    "Institution": "Mostoles University",
+    "Title": "Computer Science",
+    "StartDate":"10-09-2012",
+    "endDate":"13-05-2019"
+}    
+],
+"skills":[
+{"Javascript, web developer, pascal"}
+
+],
+"Languages"[
+    {
+        "name_language":"English, German, French"
+    }
+]
+}
+
+}
